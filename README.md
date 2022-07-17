@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sidsahu4
 - 👀 I’m interested in VLSI, SoC and ASIC design
-- 🌱 I’m currently learning IIITT
+- 🌱 I’m currently learning Verilog
 - 💞️ I’m looking to collaborate on relatable projects and repositories
 - 📫 How to reach me https://www.linkedin.com/in/siddharth-sahu-9765501a5/
 
